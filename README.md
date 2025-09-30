@@ -200,7 +200,7 @@ ou
 - Modo para visitas: ecrã bonito, sem nomes de pessoas, com animação na abertura e destaque do que correu bem, também com posibilidade de alterar dados por trás.
 
 **Mensagens e agradecimentos no feed ou nas dashboards**
-- Anúncios da direção (com possibilidade de pedir confirmação de leitura, no caso das auditorias importantes ex: amanhã auditoria X, precisamos ter em atenção 1. 2. e 3. e para continuar confirma que leu e que vai cumprir cum as regras).
+- Anúncios da direção (com possibilidade de pedir confirmação de leitura, no caso das auditorias importantes ex: amanhã auditoria X, precisamos ter em atenção 1. 2. e 3. e para continuar confirma que leu e que vai cumprir com as regras).
 - Podemos estabelhecer marcas importantes e com agradecimentos automáticos quando são atingidos.
 - Pedidos formais de tarefas para os departamentos certos ou com possibilidade de alguem escolher uma tarefa(ex: precisamos de 2 pessoas para fazer X).
 - Pedidos formais dos responsáveis de secção(ex: estamos sem 2 funcionários esperamos nomeação de 2 substitutos e aí alguém associa as pessoas para esse departamento e os responsáveis das secções dos tais funcionarios e os proprios funcionarios podem receber notificação para mudar de secção)
